@@ -1,0 +1,22 @@
+{
+  "name": "photobooth",
+  "version": "1.0.0",
+  "description": "Node Js Photo Booth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "photobooth",
+    "node",
+    "arduino"
+  ],
+  "author": "Noah Glaser",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "johnny-five": "^0.9.17",
+    "nodejs-websocket": "^1.4.1",
+    "underscore": "^1.8.3"
+  }
+}
